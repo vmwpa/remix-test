@@ -6,19 +6,19 @@ export default function Index() {
         <li>
           <a
             target="_blank"
-            href="https://remix.run/tutorials/blog"
+            href="https://whitepantsagency.com"
             rel="noreferrer"
           >
-            15m Quickstart Blog Tutorial
+            Visit Whitepants website
           </a>
         </li>
         <li>
           <a
             target="_blank"
-            href="https://remix.run/tutorials/jokes"
+            href="https://whitepantsagency.com/about"
             rel="noreferrer"
           >
-            Deep Dive Jokes App Tutorial
+            About us
           </a>
         </li>
         <li>
