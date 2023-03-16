@@ -6,6 +6,7 @@ main = "./build/index.js"
 compatibility_date = "2022-04-05"
 compatibility_flags = ["streams_enable_constructors"]
 routes= ["remix-test-vmwpa.whitepants.store/*"]
+account_id = "7dfff32bd88fed75dbe95fadb5781fb6"
 
 [site]
   bucket = "./public"
