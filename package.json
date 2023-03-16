@@ -2,6 +2,7 @@
   "private": true,
   "sideEffects": false,
   "scripts": {
+    "publish": "npm install && npm run build && npm run deploy",
     "build": "remix build",
     "deploy": "wrangler publish",
     "dev:remix": "remix watch",
