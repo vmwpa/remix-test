@@ -11,5 +11,5 @@ routes= ["remix-test-vmwpa.whitepants.store/*"]
   bucket = "./public"
 
 [build]
-  command = "npm run build"
+  command = "npm install && npm run build"
 
